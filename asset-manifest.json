@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/gpt3-pr/static/css/main.1bca9666.css",
-    "main.js": "/gpt3-pr/static/js/main.fc69194a.js",
+    "main.js": "/gpt3-pr/static/js/main.f14a0945.js",
     "static/media/ai.png": "/gpt3-pr/static/media/ai.aa60586ba1ba53762d94.png",
     "static/media/possibility.png": "/gpt3-pr/static/media/possibility.525f13b61a2157d44de0.png",
     "static/media/blog01.png": "/gpt3-pr/static/media/blog01.cefc0932eae0d33a0342.png",
@@ -13,10 +13,10 @@
     "static/media/logo.svg": "/gpt3-pr/static/media/logo.5114679faa0cce74946769ded97f1c89.svg",
     "index.html": "/gpt3-pr/index.html",
     "main.1bca9666.css.map": "/gpt3-pr/static/css/main.1bca9666.css.map",
-    "main.fc69194a.js.map": "/gpt3-pr/static/js/main.fc69194a.js.map"
+    "main.f14a0945.js.map": "/gpt3-pr/static/js/main.f14a0945.js.map"
   },
   "entrypoints": [
     "static/css/main.1bca9666.css",
-    "static/js/main.fc69194a.js"
+    "static/js/main.f14a0945.js"
   ]
 }
